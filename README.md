@@ -12,3 +12,5 @@ Integration→ Combine both sources into single; user-friendly data model
 
 Scope→ Latest dataset only: historization is not required.
 
+FOR MORE INFORMATION GO TO https://www.notion.so/Data-Warehouse-Project-2ed535dc32368079ab35f1b8fbdd156f?source=copy_link
+
